@@ -4,7 +4,7 @@ import { timeoutMessage } from '../timeout-message';
 
 describe('timeoutMessage', function () {
   it('一定時間表示される', function () {
-    document.body.innerHTML = __html__['src/js/test/timeout-message-test.html'];
+    document.body.innerHTML = __html__['src/js/test/timeout-message.html'];
 
     let clock = sinon.useFakeTimers();
 

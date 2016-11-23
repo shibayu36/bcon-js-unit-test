@@ -3,7 +3,7 @@ import { appendList } from '../append-list';
 
 describe('appendList', function () {
   it('コンテナにリストを追加できる', function () {
-    document.body.innerHTML = __html__['src/js/test/append-list-test.html'];
+    document.body.innerHTML = __html__['src/js/test/append-list.html'];
 
     let container = document.querySelector('.js-list');
 

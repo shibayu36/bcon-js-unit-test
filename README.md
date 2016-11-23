@@ -1,7 +1,7 @@
 # 一から始めるJavaScriptユニットテスト
 
 - buildersconの発表「一から始めるJavaScriptユニットテスト」用のサンプルコードです
-- 発表に沿ってブランチを切り、diffを見れるようにPullRequestを作っています
+- 発表の流れにそってブランチを切り、diffを見れるようにPullRequestを作っています
 
 ## 通常の関数のユニットテスト
 - branch: assert-mocha

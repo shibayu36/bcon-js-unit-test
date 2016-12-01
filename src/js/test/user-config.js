@@ -1,5 +1,4 @@
 import assert from 'assert';
-import { timeoutMessage } from '../user-config';
 import { useFakeLocalStorage } from './modules/fake-storage';
 import { setUserConfig, getUserConfig } from '../user-config';
 
